@@ -1,0 +1,9 @@
+public class t3_ternaryop {
+    public static void main(String[] args){
+        int a=5;
+        int b=6;
+        int c;
+        c=a>b?a:b;
+        System.out.println(c);
+    }
+}
